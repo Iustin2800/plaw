@@ -1,1 +1,1 @@
-to do: video presentation thingy, scholary HTML documentation (talking about user flows and design choices)
+to do: video presentation thingy, scholary HTML documentation: talk about user flow and interaction design patterns (separated).
